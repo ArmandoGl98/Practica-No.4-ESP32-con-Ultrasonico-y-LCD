@@ -53,3 +53,4 @@ void loop() {
 *Instalar la libreria de LiquidCrystal I2C como se muestra en la siguiente imagen
 ![](https://github.com/ArmandoGl98/Practica-No.4-ESP32-con-Ultrasonico-y-LCD/blob/main/Captura%20de%20pantalla%202023-12-21%20211827.png)
 *Hacer la conexion de ULTRASONICO y LCD 16x2 (I2C) con la ESP32 como se muestra en la siguente imagen.
+![](https://github.com/ArmandoGl98/Practica-No.4-ESP32-con-Ultrasonico-y-LCD/blob/main/Captura%20de%20pantalla%202023-12-21%20210056.png)
