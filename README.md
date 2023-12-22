@@ -54,3 +54,10 @@ void loop() {
 ![](https://github.com/ArmandoGl98/Practica-No.4-ESP32-con-Ultrasonico-y-LCD/blob/main/Captura%20de%20pantalla%202023-12-21%20211827.png)
 *Hacer la conexion de ULTRASONICO y LCD 16x2 (I2C) con la ESP32 como se muestra en la siguente imagen.
 ![](https://github.com/ArmandoGl98/Practica-No.4-ESP32-con-Ultrasonico-y-LCD/blob/main/Captura%20de%20pantalla%202023-12-21%20210056.png)
+##### Intrucciones de operacion
+Iniciar simulador.
+Visualizar el dato de la distancia en el monitor serial.
+Visualizar el dato de la distancia en la pantalla LCD.
+Visualizar el dato Ing. Abraham e Ing. Mecanica en la pantalla LCD.
+Colocar la distancia dando doble click al sensor ULTRASONICO
+##### Resultados
