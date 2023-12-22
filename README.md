@@ -61,3 +61,4 @@ Visualizar el dato de la distancia en la pantalla LCD.
 Visualizar el dato Ing. Abraham e Ing. Mecanica en la pantalla LCD.
 Colocar la distancia dando doble click al sensor ULTRASONICO
 ##### Resultados
+![](https://github.com/ArmandoGl98/Practica-No.4-ESP32-con-Ultrasonico-y-LCD/blob/main/Captura%20de%20pantalla%202023-12-21%20210103.png)
